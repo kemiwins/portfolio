@@ -1,0 +1,112 @@
+* {
+	font-family: Arial, sans-serif;
+
+	/*border: 1px solid black;*/
+}
+body {
+	margin: 0 auto;
+}
+header	{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+h1	{
+	width: 190px;
+	margin: 0 auto;
+}
+h2 {
+	width: 310px;
+	margin: 0 auto;
+}
+#nav ul {
+	list-style-type: none;
+	padding: 20px 10px;
+	margin-top: -140px;
+	margin-left: 150px;
+	background-color: blue;
+	width: 80px;
+}
+#nav li {
+	padding: 5px 0;
+}
+#triangle {
+	width: 0px;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 50px solid blue;
+	margin-left: 150px;
+	margin-top: -16px;
+}
+a {
+	text-decoration: none;
+}
+
+#bio_photo img {
+	width: 160px;
+	height: 160px;
+	border-radius: 50%;
+	display: block;
+	margin: -70px auto 0 auto;
+}
+#view p {
+	width: 80px;
+	height: 20px;
+	padding: 10px;
+	margin: -330px auto 0px auto;
+	display: block;
+	background-color: yellow;
+	border-radius: 5px;
+}	
+#projects {
+	height: 350px;
+	margin: 30px auto 0 auto;
+	background-color: #cc0066;
+	text-align: center;
+}
+#projects p {
+	display: inline-block;
+	margin: 0 auto;
+	padding: 80px 5px 0 5px;
+}
+#projects img {
+	display: block;
+	width: 350px;
+}
+#arrow-left, #arrow-right {
+	color: #fff;
+	font-size: 80px;
+	font-weight: bold;
+}
+#arrow-left {
+	float: left;
+	margin: -200px 0 0 45px;
+}
+#arrow-right {
+	float: right;
+	margin: -200px 45px 0 0;
+}
+#about {
+	width: 39%;
+	display: inline-block;
+	float: left;
+	margin: 10px 1% 10px 10%;
+}
+#skills {
+	width: 39%;
+	display: inline-block;
+	float: left;
+	margin: 10px 10% 10px 1%;
+}
+.site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+.site-content {
+	flex: 1;
+}
+footer {
+	text-align: center;
+	font-size: 12px;
+}
