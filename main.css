@@ -166,14 +166,16 @@ h3 {
 	h1 {
 		margin: -170px auto 0 auto;		
 		padding: 0;
+		font-size: 150%;
 	}
 	h2 {
 		margin: 0;
 		padding: 0;
+		font-size: 110%;
 	}
 	#bio_photo img {
 		margin-top: 10px;
-		margin-bottom: -10px;
+		margin-bottom: -15px;
 		width: 180px;
 		height: 180px;
 	}
