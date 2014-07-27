@@ -164,7 +164,7 @@ h3 {
 		border-top: 35px solid #ff4575;
 	}
 	h1 {
-		margin: -170px auto 0 auto;		
+		margin: -160px auto 0 auto;		
 		padding: 0;
 		font-size: 150%;
 	}
@@ -176,8 +176,8 @@ h3 {
 	#bio_photo img {
 		margin-top: 10px;
 		margin-bottom: -20px;
-		width: 175px;
-		height: 175px;
+		width: 170px;
+		height: 170px;
 	}
 	#view {
 		display: none;
