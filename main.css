@@ -171,13 +171,13 @@ h3 {
 	h2 {
 		margin: 0;
 		padding: 0;
-		font-size: 110%;
+		font-size: 100%;
 	}
 	#bio_photo img {
 		margin-top: 10px;
-		margin-bottom: -15px;
-		width: 180px;
-		height: 180px;
+		margin-bottom: -20px;
+		width: 175px;
+		height: 175px;
 	}
 	#view {
 		display: none;
