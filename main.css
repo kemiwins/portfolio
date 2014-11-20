@@ -86,7 +86,7 @@ a {
 #projects {
 	margin: 10px auto 0px auto;
 	padding: 5px 0 5px 0;
-	background-color: #fff;
+	background-color: #000;
 	text-align: center;
 }
 #projects p  {
@@ -97,7 +97,7 @@ a {
 #addProjects {
 	display: none;
 	margin: 0 auto;
-	background-color: #fff;
+	background-color: #000;
 	text-align: center;
 }
 #addProjects p {
